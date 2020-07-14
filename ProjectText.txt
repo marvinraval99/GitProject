@@ -1,3 +1,5 @@
 First Text 
 FeatureX Added 
 FeatureX Updated
+Feature2 added
+Feature 2 with 1 bug
