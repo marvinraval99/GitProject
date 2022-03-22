@@ -7,3 +7,4 @@ feature 1 with 1 bug
 feature 2 wip
 Hotfix 1 
 Creating Merge Conflict
+Adding consecutive changes
